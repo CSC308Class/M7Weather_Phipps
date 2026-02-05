@@ -92,8 +92,8 @@ class ViewController: UIViewController {
             tempWarningLabel.text = "Warm!"
         default:
             tempWarningLabel.text = "Heat alert!"
-        
-        
+            
+        }
     }
 
 
